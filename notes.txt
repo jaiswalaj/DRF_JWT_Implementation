@@ -1,0 +1,1 @@
+This is implementation of JWT where the tokens are updated after a set time Interval. A better way to update access token are to update them on every request which can be done by AXIOS
